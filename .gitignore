@@ -1,0 +1,13 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/tests/demo-todo-app.spec.js
+/tests/example.spec.js
+/tests/lamdatestdemo.spec.js
+/tests/neel_practice.spec.js
+/tests/practice1.spec.js
+/tests/test-1.spec.ts
+/playwright-parallel.js
+/allure-report/
+/allure-results/
