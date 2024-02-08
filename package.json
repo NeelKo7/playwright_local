@@ -12,6 +12,6 @@
     "allure-playwright": "^2.4.0"
   },
   "dependencies": {
-    "csv-parse": "^5.4.1"
+    "csv-parse": "^5.4.1" 
   }
 }
